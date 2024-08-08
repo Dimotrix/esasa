@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
 local UserName = Player.Name
 
-if UserName == "Kranm9866" then
+if UserName == "Gorre1909" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -12,7 +12,7 @@ getgenv().code = "msLBPLF8Gp"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Blasttwinge4019" then
+elseif UserName == "Zarban2233" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -22,7 +22,7 @@ getgenv().code = "msLBPLF8Gp"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Silentfixxit5682" then
+elseif UserName == "Leejj9556" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -32,7 +32,7 @@ getgenv().code = "msLBPLF8Gp"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Brassswitch2644" then
+elseif UserName == "Jumpstep3579" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -42,7 +42,7 @@ getgenv().code = "msLBPLF8Gp"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Wellank2852" then
+elseif UserName == "Guzss5021" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -52,7 +52,7 @@ getgenv().code = "msLBPLF8Gp"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Xanfe1391" then
+elseif UserName == "Shimmertwinge1709" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -62,7 +62,7 @@ getgenv().code = "sMaUDwUTim"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Bonhk0848" then
+elseif UserName == "Brassswitch3710" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -72,7 +72,7 @@ getgenv().code = "sMaUDwUTim"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Crutks7127" then
+elseif UserName == "Flittz4558" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -82,7 +82,7 @@ getgenv().code = "sMaUDwUTim"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Wobblewhistle8113" then
+elseif UserName == "Overwrench8318" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -92,7 +92,7 @@ getgenv().code = "sMaUDwUTim"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Featherbread9380" then
+elseif UserName == "Slowfixxit3047" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -102,7 +102,7 @@ getgenv().code = "sMaUDwUTim"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Bramm2262" then
+elseif UserName == "Gazk7957" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -112,7 +112,7 @@ getgenv().code = "TYC8MZ0qeA"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Zolee4765" then
+elseif UserName == "Quickwrench7391" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -122,7 +122,7 @@ getgenv().code = "TYC8MZ0qeA"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Kipchoo8820" then
+elseif UserName == "Gorsh5095" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -132,7 +132,7 @@ getgenv().code = "TYC8MZ0qeA"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Sotzbik2425" then
+elseif UserName == "Shadowseam0222" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -142,7 +142,7 @@ getgenv().code = "TYC8MZ0qeA"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Overbolt3162" then
+elseif UserName == "Torquemaker7986" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -152,7 +152,7 @@ getgenv().code = "TYC8MZ0qeA"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Togglekettle6226" then
+elseif UserName == "Sotzbik3280" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -162,7 +162,7 @@ getgenv().code = "p6yxZHp0ll"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Gearrun2541" then
+elseif UserName == "Togp7233" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -172,7 +172,7 @@ getgenv().code = "p6yxZHp0ll"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Crutks2828" then
+elseif UserName == "Kazrt2115" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -182,7 +182,7 @@ getgenv().code = "p6yxZHp0ll"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Spindlebolt9540" then
+elseif UserName == "Snafko9306" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
@@ -192,7 +192,7 @@ getgenv().code = "p6yxZHp0ll"
 getgenv().WebHook = "https://discord.com/api/webhooks/1135955560680931438/aYCk6mos3gh6ZdRMM7IrsE2BDbiiQjM6wYDAbzKlhzfpTA--38SW3L8ZSr-tGv_ZQ8YA"
 script_key="tsoeDfeZvvkRhbbuOgpUlgEUlBchmZtV";
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/16ef3b8358c3871fed6457dc45dca67e.lua"))()
-elseif UserName == "Wiknk0235" then
+elseif UserName == "Crankbolt9000" then
   getgenv().BuyMythicalChest = true
 getgenv().BuyLegendaryChest = true
 getgenv().StopOnShop = false
